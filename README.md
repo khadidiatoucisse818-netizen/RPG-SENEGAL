@@ -68,7 +68,7 @@ Quand une creature avec le type de degats poison touche un heros, ce heros devie
 Au tour suivant il perd 5 PV et est paralyse, il ne peut pas jouer ce tour.
 L'effet dure un seul tour.
 
-### Amelioration 2 : Resume de fin de combat
+### Resume de fin de combat
 
 A la fin du combat le jeu affiche un resume complet :
 - Le nombre de tours qu'a dure le combat
